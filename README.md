@@ -3,6 +3,14 @@ A newsletter app which will allow people to signup to your mailing list.
 
 So before begining it we should know some basic concept on API.<br>
 
+## How to run this ??
+
+In the project directory, you can run:
+
+node app.js
+Runs the server on port 3000.
+Open http://localhost:3000 to view it in the browser.
+
 ### API 
 An Application Programming Interface(API) is a set of commands,functions,protocols and objects
 that programmer can use to create software or interact with an external system.
