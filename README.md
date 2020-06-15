@@ -3,6 +3,9 @@ A newsletter app which will allow people to signup to your mailing list. I will 
 
 So before begining it we should know some basic concept on API.<br>
 
+    
+    Visit https://eduportalnewsletter.herokuapp.com/
+
 ## How to run this ??
 
 In the project directory, you can run:
