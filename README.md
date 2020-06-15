@@ -1,5 +1,5 @@
 # NewsLetter
-A newsletter app which will allow people to signup to your mailing list.
+A newsletter app which will allow people to signup to your mailing list. I will be using mailchimp API to store the contact details. You can refer to the mailchimp documentation . https://mailchimp.com/developer/ <br>
 
 So before begining it we should know some basic concept on API.<br>
 
